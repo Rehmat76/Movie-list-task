@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstAssigment</string>
+    <string name="user_profile_image">User Profile Image</string>
+    <string name="back_button_icon">Back Button icon</string>
+    <string name="save">Save</string>
+    <string name="notes">Notes:</string>
+    <string name="add_your_notes_here">add your notes here</string>
+    <string name="search">search</string>
+</resources>
